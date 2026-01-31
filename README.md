@@ -3,9 +3,9 @@
 <h3 align="center">Front-end web developer | Building sleek| High Performance optimization | Responsive |Contemporary user interface.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathbiswa&label=Profile%20views&color=0e75b6&style=flat" alt="nathbiswa" /> </p>
-<p align="left"> (https://github-profile-trophy.vercel.app/?username=nathbisaw-ma&theme=onedark)(https://github.com/ryo-ma/github-profile-trophy) </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathbiswa" alt="nathbiswa" /></a> </p>
+
+<p align="left"> <a href="https://github.com/nathbiswa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathbiswa" alt="nathbiswa" /></a> </p>
 
 - 🔭 I’m currently working on [Fiverr](https://nathbiswa.github.io/Assignment-1/)
 

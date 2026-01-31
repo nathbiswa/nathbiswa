@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHBZpow1yNgyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732789689436?e=1771459200&v=beta&t=LRm8AGf8PnMZIUPf1T7ZhDF2Z2KhrusK5DPRt26HBdk" alt="">
 <h1 align="center">Hi 👋, I'm Bishwa Nath Roy</h1>
 <h3 align="center">Front-end web developer | Building sleek| High Performance optimization | Responsive |Contemporary user interface.</h3>
 

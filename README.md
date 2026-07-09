@@ -1,6 +1,6 @@
 <!-- BANNER ARCHITECTURE -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHBZpow1yNgyg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732789689436?e=1782950400&v=beta&t=Y9NdSOEEa-vQDO6xErQ1rSWUJ48rLELRjDSINy7kETE" alt="Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHBZpow1yNgyg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732789689436?e=1785369600&v=beta&t=wbIA2MX7TXaK3WFcPoaRcUvKpWK0qeYvjB_Fhg2wb10" alt="Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 <!-- HEADER SECTION WITH TYPING ANIMATION -->

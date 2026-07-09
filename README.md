@@ -98,9 +98,9 @@
 </p>
 
 ---
-
 ### 📬 Get In Touch
 * 📧 Email: **biswanroy29@gmail.com**
+* 💬 WhatsApp: **[+8801306192070](https://wa.me/8801306192070)**
 * 💼 Portfolio/Projects: [github.com/nathbiswa](https://github.com/nathbiswa)
 
 <p align="center">

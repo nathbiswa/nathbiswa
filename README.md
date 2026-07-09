@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nathbiswa&theme=radical&column=7&margin-w=15" alt="Trophies" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nathbiswa&theme=radical&row=1&column=7" alt="nathbiswa" />
   </a>
 </p>
 
